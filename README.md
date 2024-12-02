@@ -4,7 +4,7 @@ This repository hosts a simple web application designed to break language barrie
 ## Features:
 - Upload a video file.
 - Speech-to-text conversion using a speech recognition library.
-- Translation of extracted text to Tamil using Google’s Translator API.
+- Translation of extracted text to Tamil using GoogleTrans Library.
 - Basic interface built with HTML, CSS, and JavaScript.
 ## Future Enhancements:
 - Support for additional Indian languages.
